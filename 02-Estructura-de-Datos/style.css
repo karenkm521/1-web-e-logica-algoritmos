@@ -1,0 +1,26 @@
+section{
+    display: flex;
+    justify-content: center;
+
+}
+.agregarProducto{
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+h2{
+    font-size: xx-large;
+}
+input{
+    padding: 10px;
+}
+.listaCompras{
+    margin-top: 3%;
+}
+
+button{
+    background-color: rgb(140, 93, 184);
+    color: aliceblue;
+    font-size: large;
+    padding: 5px 10px;
+}
